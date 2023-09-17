@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fn4x2%2Fzoo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fn4x2%2Fzoo?ref=badge_shield)
+
        _oo     .-.        .-.        
     >-(_  \  c(O_O)c    c(O_O)c      
        / _/ ,'.---.`,  ,'.---.`,     
@@ -9,3 +11,7 @@
 zoo
 ---
 zoo is collection go libraries.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fn4x2%2Fzoo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fn4x2%2Fzoo?ref=badge_large)
